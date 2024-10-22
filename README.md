@@ -1,10 +1,4 @@
-# Olá, eu sou Jesrriel Moura! 🎉
-
-<p align="center">
-  <img src="https://i.imgur.com/YourImageLink.png" alt="Imagem de Fundo" style="max-width: 100%; border-radius: 15px;">
-</p>
-
-Sou um desenvolvedor apaixonado por tecnologia e programação, com experiência em diversas linguagens.
+# Olá, eu sou Jesrriel Moura! 
 
 ## Tecnologias que uso:
 
@@ -16,8 +10,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, com experiência
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
 </p>
-
-## Sobre mim:
 
 **Apaixonado por colaborar em projetos inovadores e transformar ideias em realidade. Sempre em busca de aprender e experimentar novas tecnologias, meu objetivo é desenvolver soluções cada vez mais eficientes e criativas.**
 
